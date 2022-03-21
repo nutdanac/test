@@ -1,4 +1,4 @@
 <?php
 
-echo "tseting git";
+echo "hello world";
 ?>
